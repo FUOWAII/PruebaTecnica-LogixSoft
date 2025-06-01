@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+nav {
+    margin-bottom: 20px;
+}
+nav a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: blue;
+}
+.login-container {
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+}
+input, button {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid #999;
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+@media (max-width: 600px) {
+    body {
+        margin: 10px;
+    }
+    .login-container {
+        width: 90%;
+    }
+}

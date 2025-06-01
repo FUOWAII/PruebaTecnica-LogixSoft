@@ -1,0 +1,17 @@
+body {
+  font-family: "Inter", sans-serif;
+}
+#map {
+  height: calc(100vh - 64px);
+  width: 100%;
+}
+.marker-info {
+  min-width: 200px;
+}
+.marker-title {
+  font-weight: 600;
+  color: #0c4a6e;
+}
+.search-box {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
