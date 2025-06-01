@@ -56,4 +56,4 @@ Reemplaza `NombreDeTuProyecto` con el nombre real de la carpeta.
 
 5. Inicia sesión desde la interfaz de login para acceder a las funcionalidades del sistema.
 
-# Muchas gracias de antemano por ver el proyecto, que pasen felíz día 😁#
+# Muchas gracias de antemano por ver el proyecto, que pasen felíz día 😁
